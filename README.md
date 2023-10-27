@@ -1,6 +1,6 @@
 # Protein Problem - Handheld urinalysis device for kidney patients (2019)
 <p align="center">
-  <img src="./images/device_picture.png" alt="Device Photo">
+  <img src="./images/device_picture.jpg" alt="Device Photo">
 <i>Urinalysis device</i>
 </p>
 
