@@ -1,7 +1,9 @@
 # ProteinProblem: A Digitized Urinalysis Device for Kidney Patients (2019)
 
-![Device Photo](./images/device.png)
-*Urinalysis device*
+<p align="center">
+  <img src="./images/device.png" alt="Device Photo">
+<i>ProteinProblem Urinalysis Device</i>
+</p>
 
 ## Overview
 
