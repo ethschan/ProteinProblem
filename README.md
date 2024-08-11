@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="./images/device.png" alt="Device Photo">
-<i>ProteinProblem Urinalysis Device</i>
+<i>Urinalysis Device</i>
 </p>
 
 ## Overview
