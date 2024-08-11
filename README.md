@@ -1,4 +1,4 @@
-# ProteinProblem: A Digitized Urinalysis Device for Kidney Patients (2019)
+# ProteinProblem: A Digitized At-Home Urinalysis Device for Chronic Kidney Patients (2019)
 
 <p align="center">
   <img src="./images/device.png" alt="Device Photo">
@@ -7,9 +7,16 @@
 
 ## Overview
 
-This repository contains models and code for ProteinProblem (2019), a Grade 9 personal project to develop a handheld urinalysis device to help chronic kidney patients monitor their conditions. The project was motivated by personal experience as a kidney patient and aims to provide a cost-effective, portable, and accurate tool for monitoring protein levels in urine.
+This repository contains models and code for ProteinProblem, a Grade 9 (2019) personal project to develop a handheld urinalysis device to help chronic kidney patients monitor their conditions. The project was motivated by personal experience as a kidney patient and aims to provide a cost-effective, portable, and accurate tool for monitoring protein levels in urine.
 
 More information about the project can be found in the Canadian Science Fair Journal [here](https://csfjournal.com/volume-2-issue-5/2020/3/11/protein-problem-a-digitized-at-home-urinalysis-device-to-aid-patients-suffering-from-kidney-disease).
+
+## Our Solution
+
+The ProteinProblem device improves the accuracy and convenience of at-home urinalysis for chronic kidney patients by:
+
+1. **Colorimetric Analysis**: The device uses a color sensor read color on urinalysis strips, which indicate protein levels in urine. This method is more reliable than subjective visual interpretation.
+2. **Data Analysis**: The device is Bluetooth-enabled, allowing patients to store their urinalysis results over time. This enables healthcare providers to make informed patient tailored decisions based on long-term data.
 
 ## Setup
 
